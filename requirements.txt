@@ -1,0 +1,8 @@
+langgraph>=0.3
+langchain-groq
+groq
+langchain-core
+fastapi
+uvicorn
+python-dotenv
+pydantic
